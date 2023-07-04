@@ -34,13 +34,13 @@ node perlin-to-img.js
   ![512x512 ex1](https://github.com/Gerassu/perlin-img/blob/main/Examples/512x512/noise%205-0.5-0.5%20512x512.png)
   ![512x512 ex2](https://github.com/Gerassu/perlin-img/blob/main/Examples/512x512/noise%205-0.5-0.1%20512x512.png)
 
-#Sharp
+# Sharp
 
   in the main directory:
   ![Installing Sharp](https://github.com/Gerassu/perlin-img/blob/main/ignore/sharp-example%20.png)
 
   
-#perlin-noise
+# perlin-noise
 
   in the main directory:
   ![Installing Sharp](https://github.com/Gerassu/perlin-img/blob/main/ignore/perlin-example.png)
