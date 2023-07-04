@@ -5,8 +5,8 @@ Perlin Noise Generator Outputting to PNG image
 
 ## Requirements
 
-- node.js > 18.6 
-- npm
+- [node.js](https://nodejs.org/en) > 18.6 
+- npm (usually included in node)
 - sharp [installing sharp](#Sharp)
 - perlin-noise [installing perlin noise](#perlin-noise)
 
