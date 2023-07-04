@@ -20,6 +20,10 @@ node perlin-to-img.js
 
 ## Examples
 
+List of examples
+
+[More examples available here](https://github.com/Gerassu/perlin-img/tree/main/Examples)
+
 # 128x128
   <img src="https://github.com/Gerassu/perlin-img/blob/main/Examples/128x128/noise%201-0.1-0.5%20128x128.png" width="512" height="512" />
   <img src="https://github.com/Gerassu/perlin-img/blob/main/Examples/128x128/noise%205-0.1-0.1%20128x128.png" width="512" height="512" />
@@ -33,9 +37,6 @@ node perlin-to-img.js
 # 512x512
   <img src="https://github.com/Gerassu/perlin-img/blob/main/Examples/512x512/noise%205-0.5-0.5%20512x512.png" width="512" height="512" />
   <img src="https://github.com/Gerassu/perlin-img/blob/main/Examples/512x512/noise%205-0.5-0.1%20512x512.png" width="512" height="512" />  
-
-
-[More examples available here]()
 
 
 # Sharp
