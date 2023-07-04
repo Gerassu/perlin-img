@@ -21,18 +21,22 @@ node perlin-to-img.js
 ## Examples
 
 # 128x128
-  ![128x128 ex1](https://github.com/Gerassu/perlin-img/blob/main/Examples/128x128/noise%201-0.1-0.5%20128x128.png)
-  ![128x128 ex2](https://github.com/Gerassu/perlin-img/blob/main/Examples/128x128/noise%205-0.1-0.1%20128x128.png)
+  <img src="https://github.com/Gerassu/perlin-img/blob/main/Examples/128x128/noise%201-0.1-0.5%20128x128.png" width="512" height="512" />
+  <img src="https://github.com/Gerassu/perlin-img/blob/main/Examples/128x128/noise%205-0.1-0.1%20128x128.png" width="512" height="512" />
 
   
 # 256x256
-  ![256x256 ex1](https://github.com/Gerassu/perlin-img/blob/main/Examples/256x256/noise%201-0.5-0.5%20256x256.png)
-  ![256x256 ex2](https://github.com/Gerassu/perlin-img/blob/main/Examples/256x256/noise%205-0.5-0.1%20256x256.png)
+  <img src="https://github.com/Gerassu/perlin-img/blob/main/Examples/256x256/noise%201-0.5-0.5%20256x256.png" width="512" height="512" />
+  <img src="https://github.com/Gerassu/perlin-img/blob/main/Examples/256x256/noise%205-0.5-0.1%20256x256.png" width="512" height="512" />  
 
   
 # 512x512
-  ![512x512 ex1](https://github.com/Gerassu/perlin-img/blob/main/Examples/512x512/noise%205-0.5-0.5%20512x512.png)
-  ![512x512 ex2](https://github.com/Gerassu/perlin-img/blob/main/Examples/512x512/noise%205-0.5-0.1%20512x512.png)
+  <img src="https://github.com/Gerassu/perlin-img/blob/main/Examples/512x512/noise%205-0.5-0.5%20512x512.png" width="512" height="512" />
+  <img src="https://github.com/Gerassu/perlin-img/blob/main/Examples/512x512/noise%205-0.5-0.1%20512x512.png" width="512" height="512" />  
+
+
+[More examples available here]()
+
 
 # Sharp
 
