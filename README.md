@@ -37,10 +37,14 @@ node perlin-to-img.js
 # Sharp
 
   in the main directory:
+
+  
   ![Installing Sharp](https://github.com/Gerassu/perlin-img/blob/main/ignore/sharp-example%20.png)
 
   
 # perlin-noise
 
   in the main directory:
+
+  
   ![Installing Sharp](https://github.com/Gerassu/perlin-img/blob/main/ignore/perlin-example.png)
