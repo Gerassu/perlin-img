@@ -18,6 +18,10 @@ node perlin-to-img.js
 
 ![running PerlinIMG](https://github.com/Gerassu/perlin-img/blob/main/ignore/Run.png)
 
+# Options
+
+options can be changed via the main js perlin-to-img.js under //variables to be edited
+
 ## Examples
 
 List of examples
