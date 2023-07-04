@@ -10,9 +10,10 @@ Perlin Noise Generator Outputting to PNG image
 - sharp [installing sharp](#Sharp)
 - perlin-noise [installing perlin noise](#perlin-noise)
 
-## Running 
+# Running 
 
 open a new powershell window into the main directory
+
 node perlin-to-img.js
 
 ![running PerlinIMG](https://github.com/Gerassu/perlin-img/blob/main/ignore/Run.png)
