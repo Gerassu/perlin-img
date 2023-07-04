@@ -20,7 +20,7 @@ node perlin-to-img.js
 
 # Options
 
-options can be changed via the main js perlin-to-img.js under //variables to be edited
+options can be changed via the main js perlin-to-img.js under // variables to be edited
 
 ## Examples
 
