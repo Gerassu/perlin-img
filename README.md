@@ -8,7 +8,6 @@ Perlin Noise Generator Outputting to PNG image
 - [node.js](https://nodejs.org/en) > 18.6 
 - npm (usually included in node)
 - sharp [installing sharp](#Sharp)
-- perlin-noise [installing perlin noise](#perlin-noise)
 
 # Running 
 
@@ -50,10 +49,3 @@ List of examples
   
   ![Installing Sharp](https://github.com/Gerassu/perlin-img/blob/main/ignore/sharp-example%20.png)
 
-  
-# perlin-noise
-
-  in the main directory:
-
-  
-  ![Installing Sharp](https://github.com/Gerassu/perlin-img/blob/main/ignore/perlin-example.png)
