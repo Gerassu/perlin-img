@@ -9,7 +9,7 @@ Perlin Noise Generator Outputting to PNG image
 - npm (usually included in node)
 - sharp [installing sharp](#Sharp)
 
-# Running 
+# How to Run: 
 
 open a new powershell window into the main directory
 
