@@ -163,9 +163,9 @@ for (let y = 0; y < imgSize; y++) {
         channels: 3,
     },
  })
-    .toFile("noise " + OTC + "-" + AMP + "-" + PER + " " + width + "x" + height + ".png")
+    .toFile("Noise " + OTC + "-" + AMP + "-" + PER + " " + width + "x" + height + ".png")
     .then(() => {
-        console.log("Image saved!");
+        console.log("Image has been saved! ");
      })
     .catch((err) =>{
         console.log("Couldnt save the image correctly.", err)
