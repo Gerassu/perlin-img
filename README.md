@@ -11,9 +11,9 @@ Perlin Noise Generator Outputting to PNG image
 
 # How to Run: 
 
-open a new powershell window into the main directory
+open a new powershell window (shift + right click in the folder) into the main directory
 
-node perlin-to-img.js
+> node perlin-to-img.js
 
 ![running PerlinIMG](https://github.com/Gerassu/perlin-img/blob/main/ignore/Run.png)
 
