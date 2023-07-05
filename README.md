@@ -44,8 +44,10 @@ List of examples
 
 # Sharp
 
-  in the main directory:
+  in the main directory open a new powershell window (shift + right click) and type
+  >npm install sharp
 
+  EG:
   
   ![Installing Sharp](https://github.com/Gerassu/perlin-img/blob/main/ignore/sharp-example%20.png)
 
